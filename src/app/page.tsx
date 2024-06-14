@@ -1,4 +1,3 @@
-// pages/index.tsx
 import Head from "next/head";
 import HtmlRenderer from "../components/HtmlRenderer";
 import styles from "../styles/Home.module.css";
